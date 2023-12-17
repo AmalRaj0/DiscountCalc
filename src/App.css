@@ -89,6 +89,8 @@ p{
     position: relative;
     left: 0px;
   }
-
+.box{
+  width: 300px;
+}
 
 }
